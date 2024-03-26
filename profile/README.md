@@ -30,9 +30,10 @@
 
 <div align="center">
 
+
 | **이창주** | **김진규** | **홍성혁** |
 | :------: |  :------: | :------: |
-| [<img src="https://github.com/guro-project/final_project_every-me_screen/assets/146961238/3b06a97d-9718-4c19-8ee5-7e21f9ccec68" height=150 width=150> <br/> @lcj626](https://github.com/lcj626) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @kyuveloper](https://github.com/kyuveloper) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @hsh30835](https://github.com/hsh30835) |
+| [<img src="https://github.com/guro-project/final_project_every-me_screen/assets/146961238/3b06a97d-9718-4c19-8ee5-7e21f9ccec68" height=150 width=150> <br/> @lcj626](https://github.com/lcj626) | [<img src="https://github.com/guro-project/.github/assets/146961238/690bef73-6f47-45ea-80a3-c1e2a61b9c36" height=150 width=150> <br/> @kyuveloper](https://github.com/kyuveloper) | [<img src="https://github.com/guro-project/.github/assets/146961238/f3b73801-a2ca-4f5c-a7e6-04a450046a8a" height=150 width=150> <br/> @hsh30835](https://github.com/hsh30835) |
 
 </div>
 
