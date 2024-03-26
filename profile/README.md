@@ -32,7 +32,7 @@
 
 | **이창주** | **김진규** | **홍성혁** |
 | :------: |  :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @lcj626](https://github.com/lcj626) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @kyuveloper](https://github.com/kyuveloper) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @hsh30835](https://github.com/hsh30835) |
+| [<img src="https://github.com/guro-project/final_project_every-me_screen/assets/146961238/3b06a97d-9718-4c19-8ee5-7e21f9ccec68" height=150 width=150> <br/> @lcj626](https://github.com/lcj626) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @kyuveloper](https://github.com/kyuveloper) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @hsh30835](https://github.com/hsh30835) |
 
 </div>
 
