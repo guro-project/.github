@@ -43,6 +43,13 @@
 
 <br>
 
-## 아키텍처
+## 2. 앱 이미지
+
+<img src="https://github.com/guro-project/final_project_every-me/assets/146961238/2bedb425-e765-4303-9cba-c2e417972429">
+<img src="https://github.com/guro-project/final_project_every-me/assets/146961238/98867376-ae3d-4ef5-aba4-71e5fd15e3f1">
+
+<br>
+
+## 3. 아키텍처
 
 ![Architecture](https://github.com/kyuveloper/final_project-every_me/assets/146961238/4e93fbc5-f710-4ccf-82ff-c03b8715072f)
